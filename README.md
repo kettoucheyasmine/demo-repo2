@@ -1,4 +1,3 @@
-#Hi everyone
 #Demo!
 Some Description
 
